@@ -6,7 +6,7 @@ To create a new client in SAP by copying data from an existing one, follow these
    - Assign a logical system to the client if necessary.
    - Save your entries to establish the new client.
 
-2. **Activate the SAP* User in the New Client:**
+2. **Activate the SAP\* User in the New Client:**
    - By default, the user `SAP*` is inactive in a new client. To activate it:
      - Set the profile parameter `login/no_automatic_user_sapstar` to `0`.
      - Restart the application server to apply the changes.
@@ -40,4 +40,3 @@ By following these steps and considerations, you can effectively create a new SA
 
 6. **OTHER USEFUL PAGES**
    - https://community.sap.com/t5/technology-blogs-by-members/client-copy-how-to-for-beginners/ba-p/13214066
-   
