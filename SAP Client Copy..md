@@ -37,3 +37,7 @@ To create a new client in SAP by copying data from an existing one, follow these
 - **Execution from a Neutral Client:** It's recommended to execute the client copy from a neutral client, such as client `000`, rather than directly from the target client. This approach enhances efficiency and minimizes potential conflicts.
 
 By following these steps and considerations, you can effectively create a new SAP client by copying data from an existing one, ensuring data consistency and system integrity. 
+
+6. **OTHER USEFUL PAGES**
+   - https://community.sap.com/t5/technology-blogs-by-members/client-copy-how-to-for-beginners/ba-p/13214066
+   
